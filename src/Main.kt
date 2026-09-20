@@ -10,6 +10,6 @@ fun main() {
     pushService.sendNotification("Diskon 50% khusus pengguna baru hari ini! Klik di sini.")
 
     val smsService: NotificationAction =
-        SMSNotification("081234567890")
+        SMSNotification("082137894892")
     smsService.sendNotification("Pulsa Anda hampir habis!")
 }
